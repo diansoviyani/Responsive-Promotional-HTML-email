@@ -21,3 +21,10 @@ Copy all the HTML code and paste it on your email service provider.
 
 Here I create a simple HTML promotional email that with a clear call to action and I’ve tested this responsive email on all major email client using Email on acid
 
+![Printable1](https://user-images.githubusercontent.com/112459290/204448251-37fd65f0-1b08-47a3-a81d-30a378f35bb3.png)
+
+![Printable3](https://user-images.githubusercontent.com/112459290/204448277-2c8aeb96-702e-436b-a698-2109ec0b2270.png)
+
+![Printable4](https://user-images.githubusercontent.com/112459290/204448299-b9f8ffc0-3241-4deb-b445-ca1bc2083f9e.png)
+
+![gmailw10dm_chr26_win](https://user-images.githubusercontent.com/112459290/204448449-c4fd7dfb-9471-43bb-9c11-defbd9347c98.png)
